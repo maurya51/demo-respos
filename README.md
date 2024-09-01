@@ -1,2 +1,2 @@
 # demo-respos
-first repository
+first repos
